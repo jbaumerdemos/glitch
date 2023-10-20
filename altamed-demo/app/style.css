@@ -1,0 +1,21 @@
+#wrapperImage, #bgImage{
+    width:100%;
+    height: 100%;
+}
+
+#contactButton {
+  top: 35%;
+  right: 0 !important;
+  position: fixed;
+  transform: rotate(-90deg);
+  transform-origin: 100% 100%;
+  color: #FFFFFF;
+  background-color: #008290;
+  border-color: #bde9e7;
+}
+
+#collapseCard {
+  top: 35%;
+  right: 0 !important;
+  position: fixed;
+}
